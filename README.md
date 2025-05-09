@@ -1,5 +1,5 @@
 # ellyvm-challenge
-"If you can deobfuscate it, you'll get $50. Deadline is 10 days from the date of this post."
+"If you can deobfuscate it, you'll get $50. Deadline is 14/5/2025 "
 
 "Only Acp Bytecode , Not Inside AST"
 
