@@ -1,5 +1,5 @@
 # ellyvm-challenge
-"If you can deobfuscate it, you'll get $50. Challenge closed now"
+"If you can deobfuscate it, you'll get $50. Challenge closed now,50$ give to another user, try it for fun" 
 
 "Only Acp Bytecode , Not Inside AST"
 
